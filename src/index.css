@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home_custom {
+    background-image: url('./assets/space_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

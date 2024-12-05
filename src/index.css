@@ -8,3 +8,83 @@
     background-size: cover;
     background-position: center;
 }
+
+/* .body{
+    height: 100vh;
+    background: linear-gradient(135deg, #000428, #004e92, #6b03a2, #1b2735);
+} */
+
+.project_custom{
+    background: linear-gradient(135deg, #000428, #02559d, #15001f, #1b2735);
+}
+
+.custom_color_planet_react{
+    background: radial-gradient(circle, #6d28d9, #4c1c87, #2e1059);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_node{
+    background: radial-gradient(circle, #7cffbb, #7be7f5, #ffffff);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_JS{
+    background: radial-gradient(circle, #ff4500, #ff6347, #8b0000);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_docker{
+    background: radial-gradient(circle, #b8d6e0, #0aafe6, #45bde8);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_redis{
+    background: radial-gradient(circle, #ffd700, #ff8c00, #ff4500);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_redux{
+    background: radial-gradient(circle, #a09df5, #f7ddfc, #a16cef);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_postgres{
+    background: radial-gradient(circle, #74b9ff, #0984e3, #2d3436);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_mysql{
+    background: radial-gradient(circle, #f7b267, #f8c9aa, #457b9d);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_github{
+    background: radial-gradient(circle, #333333, #6e6e6e, #ffffff);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_nextjs{
+    background: radial-gradient(circle, #000000, #212020, #656565);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.custom_color_planet_mongodb{
+    background: radial-gradient(circle, #13aa52, #57d685, #eafbe6);
+    border-radius: 100%;
+    padding: 10px;
+}
+
+.techstack_custom{
+    height: 80vh;
+}
+

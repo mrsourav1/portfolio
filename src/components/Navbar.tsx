@@ -6,13 +6,13 @@ const Navbar = () => {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(SelectedPage.Home);
 
   return (
-    <nav className="bg-slate-950 h-20 text-slate-50">
+    <nav className="bg-slate-800 bg-opacity-80 h-20 text-slate-50">
       <div className="flex justify-between mx-16 px-2 py-6">
         <NavSection
           btn="Sourav"
         />
         <div className="w-1/3">
-          <ul className="flex justify-between font-mono">
+          <ul className="flex justify-between text-xl font-extrabold">
             {Object.values(SelectedPage).map((page) => (
               <li key={page}>
                 <NavSection
